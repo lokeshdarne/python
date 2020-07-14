@@ -1,0 +1,15 @@
+monthConversions = {
+    "jan" : "january",
+    "feb" : "february",
+    "Mar": "March",
+    "Apr": "April",
+    "May": "May",
+    "jun" : "June",
+    "Jul" : "July",
+    "Aug" : "August",
+    "Sep" : "september",
+    "Oct" : "Octomber",
+    "Nov" : "November",
+    "Dec" : "December"
+}
+print(monthConversions.get("jan"))
